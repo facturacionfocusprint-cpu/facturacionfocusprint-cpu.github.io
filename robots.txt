@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://facturacionfocusprint-cpu.github.io/sitemap.xml
